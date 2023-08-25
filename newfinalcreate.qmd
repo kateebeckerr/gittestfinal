@@ -10,3 +10,7 @@ editor: visual
 library(tidyverse)
 library(palmerpenguins)
 ```
+
+```{r}
+print("Happy Friday")
+```
